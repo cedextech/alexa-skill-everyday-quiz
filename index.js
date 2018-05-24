@@ -10,23 +10,18 @@ var stringSimilarity = require('string-similarity')
 // Make sure to enclose your value in quotes, like this:  const APP_ID = "amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1";
 const APP_ID = '<APP_ID Here>'
 
-// This function returns a descriptive sentence about your data.  Before a user starts a quiz, they can ask about a specific data element,
-// like "Ohio."  The skill will speak the sentence from this function, pulling the data values from the appropriate record in your data.
+// This function returns a descriptive sentence about your data.
 function getSpeechDescription (item) {
   let sentence = item.Explanation
   return sentence
 }
 
-// We have provided two ways to create your quiz questions.  The default way is to phrase all of your questions like: "What is X of Y?"
-// If this approach doesn't work for your data, take a look at the commented code in this function.  You can write a different question
-// structure for each property of your data.
+// This function returns the one question. The counter is the index value of question from the set of 10, to be asked.
 function getQuestion (counter, item) {
   return ' Here is your ' + counter + 'th question. ' + item.Question + ' ' + item.Options + '. '
 }
 
-// This is the function that returns an answer to your user during the quiz.  Much like the "getQuestion" function above, you can use a
-// switch() statement to create different responses for each property in your data.  For example, when this quiz has an answer that includes
-// a state abbreviation, we add some SSML to make sure that Alexa spells that abbreviation out (instead of trying to pronounce it.)
+// This is the function that returns an answer to your user during the quiz. 
 function getAnswer (item) {
   return ' The answer is ' + item.Answer + '. ' + item.Explanation + '. '
 }
