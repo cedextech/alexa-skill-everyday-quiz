@@ -1,0 +1,498 @@
+{
+   "interactionModel":{
+      "languageModel":{
+         "invocationName":"everyday quiz",
+         "intents":[
+            {
+               "name":"AMAZON.CancelIntent",
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"AMAZON.HelpIntent",
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"AMAZON.NoIntent",
+               "samples":[
+                  "nope",
+                  "no I'm not",
+                  "not ready",
+                  "I'm not ready",
+                  "I quit",
+                  "quit"
+               ]
+            },
+            {
+               "name":"AMAZON.PauseIntent",
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"AMAZON.StartOverIntent",
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"AMAZON.StopIntent",
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"AMAZON.YesIntent",
+               "samples":[
+                  "yea",
+                  "yea sure",
+                  "sure",
+                  "OK",
+                  "ok go",
+                  "I'm ready",
+                  "yes I'm ready",
+                  "move on",
+                  "carry on",
+                  "proceed",
+                  "continue",
+                  "next question",
+                  "go to next question",
+                  "skip to next question",
+                  "next",
+                  "skip"
+               ]
+            },
+            {
+               "name":"AnswerIntent",
+               "slots":[
+                  {
+                     "name":"Answer",
+                     "type":"ANSWER"
+                  }
+               ],
+               "samples":[
+                  "the answer is {Answer}",
+                  "my answer is {Answer}",
+                  "answer is {Answer}",
+                  "select {Answer}",
+                  "lock on {Answer}",
+                  "I don't know",
+                  "don't know"
+               ]
+            },
+            {
+               "name":"AskQuestion",
+               "slots":[
+
+               ],
+               "samples":[
+
+               ]
+            },
+            {
+               "name":"QuizIntent",
+               "slots":[
+
+               ],
+               "samples":[
+                  "start quiz",
+                  "start a quiz",
+                  "start a quiz game",
+                  "and start a quiz",
+                  "and quiz me",
+                  "for a quiz",
+                  "a quiz",
+                  "start the quiz",
+                  "start my quiz",
+                  "start"
+               ]
+            }
+         ],
+         "types":[
+            {
+               "name":"ANSWER",
+               "values":[
+                  {
+                     "name":{
+                        "value":"Monaco"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Oncologist"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"bones"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Larva of silkworm"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"option 1"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"option 2"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"option 3"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"sirius"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"sweden"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Canada"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Antarctica"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"China"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"International Court of Justice"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Russia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Faraday"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Copper"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Iridium"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Cyprus"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Saudi Arabia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"0"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"10"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"254"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"5423"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"US"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"USA"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"oslo"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Qatar"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"France"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Bahrain"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Baseball"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Singapore"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Basketball"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Netherlands"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Arabia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Sri Lanka"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"united states of america"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"south africa"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"west bengal"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Norway"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Australia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Greece"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Siberia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Africa"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"California"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Indonesia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Pakistan and Nepal"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"China and Tibet"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"India and Pakistan"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Pakistan"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Nepal"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Tibet"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"England"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Moscow"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"15"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Katmandu"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"The Mesopotamian Civilization"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Congo"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Libya"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Jordan"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Kuwait"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Persia"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Arab"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Europe"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Judo"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Karate"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Swimming"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Boxing"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Hockey"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Football"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Badminton"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Tennis"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"Wrestling"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"1875"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"24th October 1945"
+                     }
+                  },
+                  {
+                     "name":{
+                        "value":"10 August 1764"
+                     }
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}
