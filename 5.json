@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "Which American coffeehouse chain decided to carry out a racial bias training recently?",
+		"Options": "option 1. Stumptown.  option 2. Starbucks.  option 3. Blue bottle",
+		"Answer": "Starbucks",
+		"answerOption": "2",
+		"Explanation": "Coffee chain Starbucks is to close more than 8000 company-owned branches in the US to carry out racial bias training. This move comes after to the arrest of two black men who were waiting to meet someone in a Starbucks in Philadelphia who were accused by shop staff of trespassing."
+    },
+	{
+        "Number": "2",
+        "Question": "Miguel Diaz Canel has picked as the candidate to the parliament of which of the following countrey?",
+        "Options": "option 1. Peru.  option 2. Chile.  option 3. Cuba",
+        "Answer": "Cuba",
+        "answerOption": "3",
+        "Explanation": "Cuba's parliament has picked Miguel Diaz Canel as the sole candidate to succeed Raul Castro. The national assembly , the country's legislative body, will vote on the nomination but Mr. Diaz Canel is almost certain to bew confirmed."
+   	},
+   	{
+		"Number": "3",
+		"Question": "Russia’s communications watchdog has begun enforcing a nationwide ban for which of the following messaging app?",
+		"Options": "option 1. WhatsApp.  option 2. Messenger.  option 3. Telegram",
+		"Answer": "Telegram",
+		"answerOption": "3",
+		"Explanation": "Telecommunications providers have been instructed to block Telegram in Russia after a court last week sided with authorities who demanded that the app be kept of the country until it hands over the keys to its data encryption."
+    },
+	{
+		"Number": "4",
+		"Question": "Residents can drive right up to their apartments at the luxury Porsche Tower in which city?",
+		"Options": "option 1. Miami.  option 2. New York.  option 3. Los Angels",
+		"Answer": "Miami",
+		"answerOption": "1",
+		"Explanation": "The tower, in Sunny Isles Beach, introduced the concept of a sky garage. Special car elevators can take residents to their apartment in just 75 seconds."
+    },
+	{
+		"Number": "5",
+		"Question": "Representatives of North Korea, South Korea and the United States met in Finland this week to talk about what?",
+		"Options": "option 1. immigration.  option 2. denuclearization.  option 3. mass shootings",
+		"Answer": "denuclearization",
+		"answerOption": "2",
+		"Explanation": "The American representatives were not government officials because the US does not have a diplomatic presence in North Korea."
+    },
+	{
+		"Number": "6",
+		"Question": "Which Asian country concluded a secret military agreement with the United Arab Emirates to cinch a nuclear power plant deal?",
+		"Options": "option 1. South Korea.  option 2. China.  option 3. Japan",
+		"Answer": "South Korea",
+		"answerOption": "1",
+		"Explanation": "Under this pact, concluded in the period 2009 to 2011 South Korea undertook to defend the United Arab Emirates if a war broke out; an undertaking which it has only, to date, agreed to, with the United States."
+    },
+	{
+		"Number": "7",
+		"Question": "Which of the following Asian countries will hold a national legislative election in May 2018?",
+		"Options": "option 1. Pakistan.  option 2. Brunei.  option 3. East Timor",
+		"Answer": "East Timor",
+		"answerOption": "3",
+		"Explanation": "East Timor is set to hold fresh elections after President Francisco Guterres dissolved Parliament , ending a months-long political impasse that plunged Asia’s youngest democracy into a post-election stalemate."
+    },
+	{
+		"Number": "8",
+		"Question": "Which Hollywood actress has announced she is running for Congress?",
+		"Options": "option 1. Susan Sarandon.  option 2. Stacey Dash.  option 3. Viola Davies",
+		"Answer": "Stacey Dash",
+		"answerOption": "2",
+		"Explanation": "Stacey Dash has announced she’s running for Congress in California’s 44th District - in Los Angeles."
+    },
+	{
+		"Number": "9",
+		"Question": "Which country has started using facial recognition to crack down on jaywalking?",
+		"Options": "option 1. America.  option 2. Japan.  option 3. China",
+		"Answer": "China",
+		"answerOption": "3",
+		"Explanation": "In the southern city of Shenzhen, Chinese authorities have launched a new surveillance system that has already snapped 13,930 jaywalking offenders in under six months."
+    },
+	{
+		"Number": "10",
+		"Question": "Which country did the United Nations declare as the world's happiest?",
+		"Options": "option 1. Finland.  option 2. Germany.  option 3. Norway",
+		"Answer": "Finland",
+		"answerOption": "1",
+		"Explanation": "Finland is the happiest country in the world, according to the latest World Happiness Report. Norway, last year's winner, came in second place in the 2018 report. It's followed by Denmark, Iceland and Switzerland."
+    }
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "What is the Astrophysics Explorer mission of NASA to detect planets outside the solar system?",
+		"Options": "option 1. ASTRO-1.  option 2. Hubble.  option 3. TESS",
+		"Answer": "TESS",
+		"answerOption": "3",
+		"Explanation": "The Transiting Exoplanet Survey Satellite is a NASA Astrophysics Explorer mission to survey some 200000 of the brightest stars near the Sun in search of planets."
+    },
+	{
+		"Number": "2",
+		"Question": "What is the name of the controversial new book of former FBI Director James Comey?",
+		"Options": "option 1. A Higher Loyalty.  option 2. Fire and Fury.  option 3. Being the state loyalty",
+		"Answer": "A Higher Loyalty",
+		"answerOption": "1",
+		"Explanation": "A Higher Loyalty: Truth, Lies, and Leadership is an autobiography by James Comey, the former Director of the Federal Bureau of Investigation. The book is published by Macmillan Publishers' Flatiron Books on April 17, 2018."
+    },
+	{
+		"Number": "3",
+		"Question": "Who won the Entertainer of the year at the American Country Music Awards this year?",
+		"Options": "option 1. Tim McGraw.  option 2. Blake Shelton.  option 3. Jason Aldean",
+		"Answer": "Jason Aldean",
+		"answerOption": "3",
+		"Explanation": "The singer took home the top award of the night, entertainer of the year, at the 53rd Academy Of Country Music Awards at the MGM Grand Garden Arena in Las Vegas on Sunday, winning over fellow nominees Garth Brooks, Luke Bryan, Chris Stapleton and Keith Urban."
+    },
+	{
+		"Number": "4",
+		"Question": "Who has ranked number one in the men's Association of Tennis proffessionals world ranking?",
+		"Options": "option 1. Roger Federer.  option 2. Rafael Nadal.  option 3. Andy Murray",
+		"Answer": "Rafael Nadal",
+		"answerOption": "2",
+		"Explanation": "Spain's Rafael Nadal remained in the number one spot with 8770 points. Nadal dethroned Switzerland's Roger Federer, the 20 time Grand Slam Champion, who fell to the second place."
+    },
+	{
+		"Number": "5",
+		"Question": "Which is the world's only hand written newspaper?",
+		"Options": "option 1. The Old Flag.  option 2. The Musalman.  option 3. Deccan Chronicle",
+		"Answer": "The Musalman",
+		"answerOption": "2",
+		"Explanation": "The Musalman is the oldest Urdu-language daily newspaper published from Chennai in India. It is an evening paper with four pages, all of which are handwritten by calligraphers. It's been 91 years since it is established in 1927, by Syed Azathulla."
+    },
+	{
+		"Number": "6",
+		"Question": "Who is the man with three faces?",
+		"Options": "option 1. Jerome Hamon.  option 2. Dallas Wiens.  option 3. Richard Lee Norris",
+		"Answer": "Jerome Hamon",
+		"answerOption": "1",
+		"Explanation": "Jerome Hamon is the first man in the world to twice undergo a face transplant after flu tablets incompatible with his anti-rejection treatment led to the first attempt failing. He remains in a Paris hospital, three months after undergoing his second face transplant."
+    },
+	{
+		"Number": "7",
+		"Question": "The Buruli ulcer which is infamously known as the flesh eating ulcer is caused by... ",
+		"Options": "option 1. Virus.  option 2. Mosquito.  option 3. Bacteria",
+		"Answer": "Bacteria",
+		"answerOption": "3",
+		"Explanation": "Flesh eating ulcer that spreading in australia, particularly in the state of Victoria is caused by the bacteria Mycobacterium ulcerans. It results in severe destructive lesions of skin and soft tissue."
+    },
+	{
+		"Number": "8",
+		"Question": "The 29th Arab League Summit 2018 is hosted by... ",
+		"Options": "option 1. Egypt.  option 2. Saudi Arabia.  option 3. Yeman",
+		"Answer": "Saudi Arabia",
+		"answerOption": "2",
+		"Explanation": "The 29th Arab League Summit 2018 has started in Dahran, Saudi Arabia on April 15 to promote Arab joint action to address challenges facing the nation."
+    },
+	{
+		"Number": "9",
+		"Question": "With Which country China Signed MoU Along Belt And Road Initiative?",
+		"Options": "option 1. Singapore.  option 2. Malaysia.  option 3. Pakistan",
+		"Answer": "Singapore",
+		"answerOption": "1",
+		"Explanation": "Singapore and China signed a Memorandum of understanding in Beijing to promote greater collaboration between Singapore and Chinese companies in third-party markets along the Belt and Road."
+    },
+	{
+		"Number": "10",
+		"Question": "Which country allows women to join national service amidst intensified diplomatic blockade by Arab quartet?",
+		"Options": "option 1. Iraq.  option 2. Iran.  option 3. Qatar",
+		"Answer": "Qatar",
+		"answerOption": "3",
+		"Explanation": "Qatar allows women to join national service amidst intensified diplomatic blockade by Arab quartet. Amidst intensified diplomatic blockade by Arab quartet, Qatar has taken a huge step of introducing women to join national service and also extended the time served in the military by conscripted men."
+    }
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "During the Great Depression who was the president of America?",
+		"Options": "option 1. Herbert Hoover.  option 2. John Nixon.  option 3. Franklin D Roosevelt",
+		"Answer": "Franklin D Roosevelt",
+		"answerOption": "3",
+		"Explanation": "The Great Depression lasted from 1929 to 1939, and was the worst economic downturn in the history of the industrialized world. It began after the stock market crash of October 1929, which sent Wall Street into a panic and wiped out millions of investors."
+    },
+	{
+		"Number": "2",
+		"Question": "What type of flame is produced when the oxygen supply is sufficient?",
+		"Options": "option 1. Yellow flame.  option 2. Blue flame.  option 3. Orange flame",
+		"Answer": "Blue flame",
+		"answerOption": "2",
+		"Explanation": "With increasing oxygen supply, more complete combustion takes place and the reaction creates enough energy to excite and ionize gas molecules in the flame, leading to a blue appearance."
+    },
+	{
+		"Number": "3",
+		"Question": "Who demonstrated that mass of an atom is located in the nucleus?",
+		"Options": "option 1. Bohr.  option 2. Thomson.  option 3. Rutherford",
+		"Answer": "Rutherford",
+		"answerOption": "3",
+		"Explanation": "The model described the atom as a tiny, dense, positively charged core called a nucleus, in which nearly all the mass is concentrated, around which the light, negative constituents, called electrons, circulate at some distance, much like planets revolving around the Sun."
+    },
+	{
+		"Number": "4",
+		"Question": "What is the animal symbol of W W F?",
+		"Options": "option 1. Red Panda.  option 2. Giant Panda.  option 3. Kangaroo",
+		"Answer": "Giant Panda",
+		"answerOption": "2",
+		"Explanation": "The inspiration for the WWF logo came from Chi-Chi: a giant panda that was living at the London Zoo in 1961, the same year WWF was created. WWF's founders were aware of the need for a strong, recognizable symbol that would overcome all language barriers."
+    },
+	{
+		"Number": "5",
+		"Question": "The period of one revolution of sun around the centre of galaxy is called... ",
+		"Options": "option 1. Cosmic year.  option 2. Astronomical year.  option 3. Light year",
+		"Answer": "Cosmic year",
+		"answerOption": "1",
+		"Explanation": "The galactic year, also known as a cosmic year, is the duration of time required for the Sun to orbit once around the center of the Milky Way Galaxy. Estimates of the length of one orbit range from 225 to 250 million terrestrial years."
+    },
+	{
+		"Number": "6",
+		"Question": "A solar powered internet drone Aquila is a project of... ",
+		"Options": "option 1. Google.  option 2. Twitter.  option 3. Facebook",
+		"Answer": "Facebook",
+		"answerOption": "3",
+		"Explanation": "The Facebook Aquila is an experimental solar-powered drone developed by Facebook for use as an atmospheric satellite, intended to act as relay stations for providing internet access to remote areas."
+    },
+	{
+		"Number": "7",
+		"Question": "Which one of the following animal has maximum life span?",
+		"Options": "option 1. Giant Tortoise. option 2b. Eastern Box Turtle.  option 3. Elephant",
+		"Answer": "Giant Tortoise",
+		"answerOption": "1",
+		"Explanation": "Life span of 190 years, people come from all over the world to watch these magnificent creatures in the Galapagos Islands which is on the UNESCO world heritage list."
+    },
+	{
+		"Number": "8",
+		"Question": "Osteology is called the study of... ",
+		"Options": "option 1. muscles.  option 2. bones.  option 3. brain",
+		"Answer": "bones",
+		"answerOption": "2",
+		"Explanation": "Osteology is the study of bones, both human and animal, in the archaeological record. Osteologists study bones to identity their species, age, sex, and both pre- and post-mortem trauma, such as butchering."
+    },
+	{
+		"Number": "9",
+		"Question": "RAW is the intelligence agency of... ",
+		"Options": "option 1. Bangladesh.  option 2. India.  option 3. USA",
+		"Answer": "India",
+		"answerOption": "2",
+		"Explanation": "The Research and Analysis Wing is the primary foreign intelligence agency of India."
+    },
+	{
+		"Number": "10",
+		"Question": "In medical science a doctor who deals with cancer in body is called... ",
+		"Options": "option 1. Pediatrition.  option 2. Orthopadic.  option 3. Oncologist",
+		"Answer": "Oncologist",
+		"answerOption": "3",
+		"Explanation": "Oncology is a branch of medicine that deals with the prevention, diagnosis, and treatment of cancer. A medical professional who practices oncology is an oncologist"
+    }
+]

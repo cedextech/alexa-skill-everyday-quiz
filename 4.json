@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "What does airbag, used for safety of car driver, contain?",
+		"Options": "option 1. Sodium bicarbonate.  option 2. Sodium nitrite.  option 3. Sodium azide",
+		"Answer": "Sodium azide",
+		"answerOption": "3",
+		"Explanation": "Crashes trip sensors in cars that send an electric signal to an ignitor. The heat generated causes sodium azide to decompose into sodium metal and nitrogen gas, which inflates the car's air bags."
+    },
+	{
+		"Number": "2",
+		"Question": "Which is the only bird that can fly backwards?",
+		"Options": "option 1. Hummingbird.  option 2. Honey eater.  option 3. Kingfisher",
+		"Answer": "Hummingbird",
+		"answerOption": "1",
+		"Explanation": "Their name comes from the fact that they flap their wings so fast that they make a humming noise. Hummingbirds can fly right, left, up, down, backwards, and even upside down. They are also able to hover by flapping their wings in a figure-8 pattern."
+    },
+	{
+		"Number": "3",
+		"Question": "What is a rhinos horn made of?",
+		"Options": "option 1. Keratin.  option 2. Bones.  option 3. Collagen",
+		"Answer": "Keratin",
+		"answerOption": "1",
+		"Explanation": "Rhino horn is made up primarily of keratin – a protein found in hair, fingernails, and animal hooves."
+    },
+	{
+		"Number": "4",
+		"Question": "The filament of an electric bulb is made of... ",
+		"Options": "option 1. graphite.  option 2. tungsten.  option 3. nichrome",
+		"Answer": "tungsten",
+		"answerOption": "2",
+		"Explanation": "Pure tungsten has some amazing properties including the highest melting point, lowest vapor pressure, and greatest tensile strength out of all the metals.Because of these properties it is the most commonly used material for light bulb filaments."
+    },
+	{
+		"Number": "5",
+		"Question": "Which is the only snake that builds nests?",
+		"Options": "option 1. Anaconda.  option 2. Viper.  option 3. King Cobra",
+		"Answer": "King Cobra",
+		"answerOption": "3",
+		"Explanation": "The female King Cobra is the only snake that builds a nest for her eggs and guards them until the eggs have hatched."
+    },
+	{
+		"Number": "6",
+		"Question": "Hardest Part of the Human Body?",
+		"Options": "option 1. Knee bone.  option 2. Tooth Enamel.  option 3. Femur",
+		"Answer": "Tooth Enamel",
+		"answerOption": "2",
+		"Explanation": "The enamel on your teeth is the hardest and most highly mineralized substance in your body. It covers the outer layer of each tooth and it is the most visible part of the tooth. The enamel is made up mostly of minerals, primarily hydroxyapatite."
+    },
+	{
+		"Number": "7",
+		"Question": "What is laughing gas?",
+		"Options": "option 1. Nitrous Oxide.  option 2. Hydrogen peroxide.  option 3. Carbon monoxide",
+		"Answer": "Nitrous Oxide",
+		"answerOption": "1",
+		"Explanation": "Nitrous oxide, commonly known as laughing gas or nitrous  is a chemical compound, an oxide of nitrogen. Its name laughing gas, is due to the euphoric effects upon inhaling it"
+    },
+	{
+		"Number": "8",
+		"Question": "Which of the following animals have teeth in their stomach?",
+		"Options": "option 1. Snakes.  option 2. Cockroach.  option 3. Crabs",
+		"Answer": "Crabs",
+		"answerOption": "3",
+		"Explanation": "Inside their digestive system they have a unique stomach that is called the GASTRIC MILL. The gastric mill is found in crabs, lobsters, crayfish, barnacles, krill, and many others. These invertebrates don't have teeth in their mouth to grind their food, so they process it a bit differently."
+    },
+	{
+		"Number": "9",
+		"Question": "Which of the following harmone is called the emergency harmone?",
+		"Options": "option 1. Insulin.  option 2. Adrenaline.  option 3. Oxytocin",
+		"Answer": "Adrenaline",
+		"answerOption": "2",
+		"Explanation": "Epinephrine, also called adrenalin, is called the emergency harmone. It helps by stimulation of your muscles and nervous system to take action to help you overcome any dangerous or stressful situation."
+    },
+	{
+		"Number": "10",
+		"Question": "Nuclear sizes are expressed in a unit named... ",
+		"Options": "option 1. Fermi.  option 2. Angstrom.  option 3. Tesla",
+		"Answer": "Fermi",
+		"answerOption": "1",
+		"Explanation": "Nuclear sizes are expressed in a unit called Fermi which is a unit of length equal to one quadrillionth of a meter."
+    }
+]

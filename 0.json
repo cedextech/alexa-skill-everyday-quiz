@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "Which land-based ecosystem holds the most biodiversity?",
+		"Options": "option 1. Tropical forests.  option 2. African Savannah.  option 3. Coral reef",
+		"Answer": "Tropical forests",
+		"answerOption": "1",
+		"Explanation": "Tropical forests cover less than 7 percent of Earth's land mass but are home to about 50 percent of all living things on the planet. "
+    },
+	{
+		"Number": "2",
+		"Question": "More than half of the breathable oxygen in the world comes from where?",
+		"Options": "option 1. Forests.  option 2. Oceans.  option 3. Clouds",
+		"Answer": "Oceans",
+		"answerOption": "2",
+		"Explanation": "More than half of the breathable oxygen comes from the oceans, the majority of which is provided by tiny plants called phytoplankton."
+    },
+	{
+		"Number": "3",
+		"Question": "Which country has the greatest number of active volcanoes?",
+		"Options": "option 1. Japan.  option 2. Philippines.  option 3. Indonesia",
+		"Answer": "Indonesia",
+		"answerOption": "3",
+		"Explanation": "Indonesia is a volcanically active country, containing numerous major volcanoes. It has the most volcanoes of any country in the world, with 76 volcanoes that have erupted at least 1,171 total within historical times."
+    },
+	{
+		"Number": "4",
+		"Question": "Which of the following country has given first time voting rights to women?",
+		"Options": "option 1. USA.  option 2. New Zealand.  option 3. France",
+		"Answer": "New Zealand",
+		"answerOption": "2",
+		"Explanation": "In 1893, New Zealand became the first permanent and independent country to pass suffrage laws."
+    },
+	{
+		"Number": "5",
+		"Question": "Which of these countries has three national capitals?",
+		"Options": "option 1. Morroco.  option 2. Nepal.  option 3. South Africa",
+		"Answer": "South Africa",
+		"answerOption": "3",
+		"Explanation": "The legislative capital where Parliament resides in Cape Town, the judicial capital where the Supreme Court resides in Bloemfontein and the administrative capital where the president lives in Pretoria."
+    },
+	{
+		"Number": "6",
+		"Question": "Study of trends in human population growth and prediction of future growth is called... ",
+		"Options": "option 1. Demography.  option 2. Biography.  option 3. Kalography",
+		"Answer": "Demography",
+		"answerOption": "1",
+		"Explanation": "Demography is the statistical study of populations, especially human beings. As a very general science, it can analyze any kind of dynamic living population."
+    },
+	{
+		"Number": "7",
+		"Question": "Short-term properties of the atmosphere at a given place and time is referred as... ",
+		"Options": "option 1. Season.  option 2. Weather.  option 3. Climate",
+		"Answer": "Weather",
+		"answerOption": "2",
+		"Explanation": "Weather is what conditions of the atmosphere are over a short period of time, and climate is how the atmosphere behaves over relatively long periods of time."
+    },
+	{
+		"Number": "8",
+		"Question": "Who discovered North Pole?",
+		"Options": "option 1. Robert Peary.  option 2. Magellan.  option 3. Captain James",
+		"Answer": "Robert Peary",
+		"answerOption": "1",
+		"Explanation": "The conquest of the North Pole was for many years credited to US Navy engineer Robert Peary. "
+    },
+	{
+		"Number": "9",
+		"Question": "Who is known as Man of Blood and Iron?",
+		"Options": "option 1. Napoleon.  option 2. Sir Walter Scott.  option 3. Bismarck",
+		"Answer": "Bismarck",
+		"answerOption": "3",
+		"Explanation": "Blood and Iron is the name given to a speech made by Otto von Bismarck given on 30 September 1862, at the time when he was Minister President of Prussia, about the unification of the German territories."
+    },
+	{
+		"Number": "10",
+		"Question": " Who started the construction of Colosseum in Rome?",
+		"Options": "option 1. Vespasian.  option 2. Titus.  option 3. Nero",
+		"Answer": "Vespasian",
+		"answerOption": "1",
+		"Explanation": "Construction of Colosseum began under the emperor Vespasian in AD 72, and was completed in AD 80 under his successor and heir Titus. Further modifications were made during the reign of Domitian."
+    }
+]

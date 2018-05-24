@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "With which sport is the term Butterfly Stroke linked?",
+		"Options": "option 1. Boxing.  option 2. Swimming.  option 3. Karate.",
+		"Answer": "Swimming",
+		"answerOption": "2",
+		"Explanation": "The butterfly is a swimming stroke swum on the chest, with both arms moving symmetrically."
+    },
+	{
+		"Number": "2",
+		"Question": "Where did the game of Chess originate?",
+		"Options": "option 1. India.  option 2. Persia.  option 3. Arabia.",
+		"Answer": "India",
+		"answerOption": "1",
+		"Explanation": "The earliest predecessor of the game probably originated in India, before the 6th century AD. From India, the game spread to Persia. When the Arabs conquered Persia, chess was taken up by the Muslim world and subsequently spread to Southern Europe."
+    },
+	{
+		"Number": "3",
+		"Question": "Subroto Cup is associated with which game or sports?",
+		"Options": "option 1. Hockey.  option 2. Football.  option 3. Basketball.",
+		"Answer": "Football",
+		"answerOption": "2",
+		"Explanation": "Subroto Cup Football Tournament is one of the famous inter-school football tournament in India, named after the Indian Air Force Air Marshal Subroto Mukerjee. It started in 1960 and has been conducted every year annually since then."
+    },
+	{
+		"Number": "4",
+		"Question": "Hopman Cup is related with which sports?",
+		"Options": "option 1. Tennis.  option 2. Football.  option 3. Badminton.",
+		"Answer": "Tennis",
+		"answerOption": "1",
+		"Explanation": "The Hopman Cup is an annual international eight-team indoor hardcourt tennis tournament held in Perth, Western Australia in early January each year, which plays mixed-gender teams on a country-by-country basis."
+    },
+	{
+		"Number": "5",
+		"Question": "2018 FIFA World Cup would be held in... ",
+		"Options": "option 1. Russia.  option 2. Qatar.  option 3. France.",
+		"Answer": "Russia",
+		"answerOption": "1",
+		"Explanation": "The 2018 FIFA World Cup is scheduled to take place in Russia from 14 June to 15 July 2018, after the country was awarded the hosting rights on 2 December 2010."
+    },
+	{
+		"Number": "6",
+		"Question": "The term Pitcher is associated with... ",
+		"Options": "option 1. Wrestling.  option 2. Boxing.  option 3. Baseball.",
+		"Answer": "Baseball",
+		"answerOption": "3",
+		"Explanation": "In baseball, the pitcher is the player who throws the baseball from the pitcher's mound toward the catcher to begin each play, with the goal of retiring a batter, who attempts to either make contact with the pitched ball or draw a walk."
+    },
+	{
+		"Number": "7",
+		"Question": "The great Victoria Desert is located in... ",
+		"Options": "option 1. Canada.  option 2. West Africa.  option 3. Australia.",
+		"Answer": "Australia",
+		"answerOption": "3",
+		"Explanation": "The Great Victoria Desert, an interim Australian bioregion, is a sparsely populated desert area in Western Australia and South Australia."
+    },
+	{
+		"Number": "8",
+		"Question": "Which among the following country is the host of 2018 Commonwealth Games?",
+		"Options": "option 1. Canada.  option 2. England.  option 3. Australia.",
+		"Answer": "Australia",
+		"answerOption": "3",
+		"Explanation": "The 2018 Commonwealth Games will be held on the Gold Coast, Queensland, Australia between 4 and 15 April 2018."
+    },
+	{
+		"Number": "9",
+		"Question": "How many number of Red Balls are in Snooker?",
+		"Options": "option 1. 13.  option 2. 15.  option 3. 17.",
+		"Answer": "15",
+		"answerOption": "2",
+		"Explanation": "Snooker is played using a cue and snooker balls: one white cue ball , 15 red balls worth one point each and six balls of different colours : yellow , green, brown, blue, pink, black."
+    },
+	{
+		"Number": "10",
+		"Question": "National Football Museum which keeps FIFA collection is located in which country?",
+		"Options": "option 1. Switzerland.  option 2. Canada.  option 3. England.",
+		"Answer": "England",
+		"answerOption": "3",
+		"Explanation": "The National Football Museum is England’s national museum of football. It was established at the Urbis building in Manchester city centre, founded to preserve, conserve and interpret important collections of football memorabilia"
+    }
+]

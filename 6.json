@@ -1,0 +1,82 @@
+[
+	{
+		"Number": "1",
+		"Question": "Which is the largest fresh water lake in the world by surface area?",
+		"Options": "option 1. Lake Superior.  option 2. Lake Victoria.  option 3. Lake Baikal",
+		"Answer": "Lake Superior",
+		"answerOption": "1",
+		"Explanation": "Lake Superior, on the United States/Canada border, is the named freshwater lake with the greatest surface area at 31,700 square miles"
+    },
+	{
+		"Number": "2",
+		"Question": "Which is the coldest inhabited place on earth?",
+		"Options": "option 1. Antarctica.  option 2. Toronto in Canada.  option 3. Oymyakon in Russia",
+		"Answer": "Oymyakon in Russia",
+		"answerOption": "3",
+		"Explanation": "The remote village is generally considered the coldest inhabited area on Earth. Oymyakon is a two-day drive from Yakutsk, the regional capital which has the lowest winter temperatures of any city in the world."
+    },
+	{
+		"Number": "3",
+		"Question": "Which is the largest library in the world?",
+		"Options": "option 1. British-Indian Library.  option 2. Library of Congress.  option 3. Russian State Library",
+		"Answer": "Library of Congress",
+		"answerOption": "2",
+		"Explanation": "Built in 1800 in Washington D.C, the library of congress is the largest library in the world in both shelf space and number of books."
+    },
+	{
+		"Number": "4",
+		"Question": "Which country hosted the 2016 Olympic games?",
+		"Options": "option 1. Russia.  option 2. China.  option 3. Brazil",
+		"Answer": "Brazil",
+		"answerOption": "3",
+		"Explanation": "The 2016 Summer Olympics commonly known as Rio 2016, was a major international multi-sport event held in Rio de Janeiro, Brazil from 5 to 21 August 2016."
+    },
+	{
+		"Number": "5",
+		"Question": "Who was the longest serving president of the USA",
+		"Options": "option 1. Franklin Roosevelt.  option 2. George Washington.  option 3. John F. Kennedy",
+		"Answer": "Franklin Roosevelt",
+		"answerOption": "1",
+		"Explanation": "Franklin Roosevelt was elected to 4 terms as U.S president. He served a total of 12 years, one month and 8 days as the president of the USA."
+    },
+	{
+		"Number": "6",
+		"Question": "UN headquarter is situated in which city?",
+		"Options": "option 1. London.  option 2. New York.  option 3. Rome",
+		"Answer": "New York",
+		"answerOption": "2",
+		"Explanation": "The United Nations is headquartered in New York City. The complex has served as the official headquarters of the United Nations since its completion in 1952."
+    },
+	{
+		"Number": "7",
+		"Question": "The number of countries in Australian continent is... ",
+		"Options": "option 1. 12.  option 2. 4.  option 3. 2",
+		"Answer": "4",
+		"answerOption": "2",
+		"Explanation": "Australian continent has 4 countries. Australia, Papua New Guinea, East Timor and portions of Indonesia."
+    },
+	{
+		"Number": "8",
+		"Question": "Which of the following is the official language in Argentina?",
+		"Options": "option 1. Spanish.  option 2. Dutch.  option 3. French",
+		"Answer": "Spanish",
+		"answerOption": "1",
+		"Explanation": "There are at least 40 spoken languages in Argentina. They include indigenous and immigrant languages, with Spanish being dominant."
+    },
+	{
+		"Number": "9",
+		"Question": "The instrument used for finding out wind-direction is... ",
+		"Options": "option 1. hygrometer.  option 2. anemometer.  option 3. wind vane",
+		"Answer": "wind vane",
+		"answerOption": "3",
+		"Explanation": "A weather vane or wind vane is an instrument for showing the direction of the wind. It is typically used as an architectural ornament to the highest point of a building."
+    },
+	{
+		"Number": "10",
+		"Question": "Which of the following countries is the biggest producer of mango?",
+		"Options": "option 1. India.  option 2. China.  option 3. Malaysia",
+		"Answer": "India",
+		"answerOption": "1",
+		"Explanation": "The number 1 mango producing country in the world is India. Production here reaches over 18 million tonnes, which is approximately 45% of the global mango supply."
+    }
+]
